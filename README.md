@@ -8,7 +8,7 @@ These features can be enabled/disabled in the Settings page in Utopia:
    - Hides everything you do with Utopia from your history and prevents extensions such as GoGuardian from seeing your screen
  - Anti-Closing
    - Prevents extensions such as GoGuardian from closing the tab you're on
- - Tab Cloak
+ - Tab Cloak which is good!
    - Disguises the tab you're on as something else, such as Google Classroom, Drive, Gmail, etc.
  - Quick Links
    - Access websites faster than ever with a click of a button
